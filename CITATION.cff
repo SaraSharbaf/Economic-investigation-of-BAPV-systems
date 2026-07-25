@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Economic investigation of BAPV systems"
+message: "If you use this software in academic work, please cite it using the metadata in this file."
+type: software
+authors:
+  - family-names: "Nokandi"
+    given-names: "Ehsan"
+repository-code: "https://github.com/Ehsan/Economic-investigation-of-BAPV-systems"
+license: "MIT"
