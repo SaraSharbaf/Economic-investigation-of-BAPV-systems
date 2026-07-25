@@ -3,7 +3,7 @@ title: "Economic investigation of BAPV systems"
 message: "If you use this software in academic work, please cite it using the metadata in this file."
 type: software
 authors:
-  - family-names: "Nokandi"
-    given-names: "Ehsan"
+  - family-names: "A. Sharbaf"
+    given-names: "Sara"
 repository-code: "https://github.com/SaraSharbaf/Economic-investigation-of-BAPV-systems"
 license: "MIT"
