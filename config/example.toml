@@ -1,0 +1,32 @@
+[paths]
+energyplus_install_dir = "C:/EnergyPlusV24-2-0"
+weather_file = "C:/sample/NOR_TD_Trondheim-Voll.012570_TMYx.2009-2023.epw"
+base_model = "C:/sample/NordreSizedShadingJuly2.epJSON"
+simulation_output_dir = "../outputs/simulations"
+existing_results_dir = "C:/Users/saraag/PycharmProjects/output_files2/FINAL"
+tables_dir = "../outputs/tables"
+figures_dir = "../outputs/figures"
+
+[analysis]
+base_year = 2025
+study_period = 30
+general_price_inflation_rate = 0.039
+electricity_price_inflation_rate = 0.025
+district_heating_price_inflation_rate = 0.05
+products_price_inflation_rate = 0.029
+real_discount_rate = 0.03
+basic_electricity_price_nok_per_kwh = 1.0
+district_heating_price_nok_per_kwh = 1.0
+gj_to_kwh = 277.778
+hourly_wage_nok = 200.0
+wage_inflation_rate = 0.025
+heated_area_m2 = 3706.0
+floor_area_m2 = 841.67
+roof_area_m2 = 813.43
+
+[energyplus]
+shading_setpoint = 23.0
+no_shading_setpoint = 60.0
+zones = 5
+blinds_per_zone = 4
+

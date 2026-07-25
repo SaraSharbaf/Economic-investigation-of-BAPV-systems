@@ -1,0 +1,33 @@
+{
+  "reference_basis": "Current Passive VS Code.ipynb formulas as inspected 2026-07-25",
+  "energyplus_version": "24.2.0",
+  "cases": {
+    "W005_Wi005_R005_F005_S0": {
+      "EnergyPerHeatedArea_MJ_per_m2": 444.47,
+      "DistrictHeating_GJ": 527.66,
+      "CoolingElectricity_GJ": 15.68,
+      "PumpsElectricity_GJ": 6.15,
+      "Total_RP": 115.9,
+      "Heating_Discomfort_Hours": 286,
+      "Cooling_Discomfort_Hours": 463
+    },
+    "W005_Wi005_R1_F1_S0": {
+      "EnergyPerHeatedArea_MJ_per_m2": 423.85,
+      "DistrictHeating_GJ": 441.18,
+      "CoolingElectricity_GJ": 15.66,
+      "PumpsElectricity_GJ": 5.83,
+      "Total_RP": 133.8,
+      "Heating_Discomfort_Hours": 246,
+      "Cooling_Discomfort_Hours": 594
+    },
+    "W2_Wi2_R2_F2_S0": {
+      "EnergyPerHeatedArea_MJ_per_m2": 381.72,
+      "DistrictHeating_GJ": 264.08,
+      "CoolingElectricity_GJ": 15.72,
+      "PumpsElectricity_GJ": 4.23,
+      "Total_RP": 268.7,
+      "Heating_Discomfort_Hours": 60,
+      "Cooling_Discomfort_Hours": 1545
+    }
+  }
+}
